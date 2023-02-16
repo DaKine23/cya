@@ -1,0 +1,2037 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg12210"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   sodipodi:docname="3digitcounter.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview12212"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.79998597"
+     inkscape:cx="339.38095"
+     inkscape:cy="548.75962"
+     inkscape:window-width="2560"
+     inkscape:window-height="1379"
+     inkscape:window-x="0"
+     inkscape:window-y="33"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs12207">
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter4377"
+       x="-0.660818"
+       y="-0.28328011"
+       width="2.321636"
+       height="1.5665602">
+      <feFlood
+         flood-opacity="0.882353"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood4367" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite4369" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="0.4"
+         result="blur"
+         id="feGaussianBlur4371" />
+      <feOffset
+         dx="0"
+         dy="0"
+         result="offset"
+         id="feOffset4373" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="fbSourceGraphic"
+         id="feComposite4375" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix4487" />
+      <feFlood
+         id="feFlood4489"
+         flood-opacity="0.882353"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         in="fbSourceGraphic" />
+      <feComposite
+         in2="fbSourceGraphic"
+         id="feComposite4491"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feGaussianBlur
+         id="feGaussianBlur4493"
+         in="composite1"
+         stdDeviation="0.4"
+         result="blur" />
+      <feOffset
+         id="feOffset4495"
+         dx="0"
+         dy="0"
+         result="offset" />
+      <feComposite
+         in2="offset"
+         id="feComposite4497"
+         in="fbSourceGraphic"
+         operator="over"
+         result="composite2" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter4389"
+       x="-0.39677472"
+       y="-0.28328011"
+       width="1.7935494"
+       height="1.5665602">
+      <feFlood
+         flood-opacity="0.882353"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood4379" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite4381" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="0.4"
+         result="blur"
+         id="feGaussianBlur4383" />
+      <feOffset
+         dx="0"
+         dy="0"
+         result="offset"
+         id="feOffset4385" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="fbSourceGraphic"
+         id="feComposite4387" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix4499" />
+      <feFlood
+         id="feFlood4501"
+         flood-opacity="0.882353"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         in="fbSourceGraphic" />
+      <feComposite
+         in2="fbSourceGraphic"
+         id="feComposite4503"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feGaussianBlur
+         id="feGaussianBlur4505"
+         in="composite1"
+         stdDeviation="0.4"
+         result="blur" />
+      <feOffset
+         id="feOffset4507"
+         dx="0"
+         dy="0"
+         result="offset" />
+      <feComposite
+         in2="offset"
+         id="feComposite4509"
+         in="fbSourceGraphic"
+         operator="over"
+         result="composite2" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter4401"
+       x="-0.39677472"
+       y="-0.28328011"
+       width="1.7935494"
+       height="1.5665602">
+      <feFlood
+         flood-opacity="0.882353"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood4391" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite4393" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="0.4"
+         result="blur"
+         id="feGaussianBlur4395" />
+      <feOffset
+         dx="0"
+         dy="0"
+         result="offset"
+         id="feOffset4397" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="fbSourceGraphic"
+         id="feComposite4399" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix4511" />
+      <feFlood
+         id="feFlood4513"
+         flood-opacity="0.882353"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         in="fbSourceGraphic" />
+      <feComposite
+         in2="fbSourceGraphic"
+         id="feComposite4515"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feGaussianBlur
+         id="feGaussianBlur4517"
+         in="composite1"
+         stdDeviation="0.4"
+         result="blur" />
+      <feOffset
+         id="feOffset4519"
+         dx="0"
+         dy="0"
+         result="offset" />
+      <feComposite
+         in2="offset"
+         id="feComposite4521"
+         in="fbSourceGraphic"
+         operator="over"
+         result="composite2" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter4413"
+       x="-0.39677472"
+       y="-0.28328011"
+       width="1.7935494"
+       height="1.5665602">
+      <feFlood
+         flood-opacity="0.882353"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood4403" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite4405" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="0.4"
+         result="blur"
+         id="feGaussianBlur4407" />
+      <feOffset
+         dx="0"
+         dy="0"
+         result="offset"
+         id="feOffset4409" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="fbSourceGraphic"
+         id="feComposite4411" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix4523" />
+      <feFlood
+         id="feFlood4525"
+         flood-opacity="0.882353"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         in="fbSourceGraphic" />
+      <feComposite
+         in2="fbSourceGraphic"
+         id="feComposite4527"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feGaussianBlur
+         id="feGaussianBlur4529"
+         in="composite1"
+         stdDeviation="0.4"
+         result="blur" />
+      <feOffset
+         id="feOffset4531"
+         dx="0"
+         dy="0"
+         result="offset" />
+      <feComposite
+         in2="offset"
+         id="feComposite4533"
+         in="fbSourceGraphic"
+         operator="over"
+         result="composite2" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter4425"
+       x="-0.39677472"
+       y="-0.28328011"
+       width="1.7935494"
+       height="1.5665602">
+      <feFlood
+         flood-opacity="0.882353"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood4415" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite4417" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="0.4"
+         result="blur"
+         id="feGaussianBlur4419" />
+      <feOffset
+         dx="0"
+         dy="0"
+         result="offset"
+         id="feOffset4421" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="fbSourceGraphic"
+         id="feComposite4423" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix4535" />
+      <feFlood
+         id="feFlood4537"
+         flood-opacity="0.882353"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         in="fbSourceGraphic" />
+      <feComposite
+         in2="fbSourceGraphic"
+         id="feComposite4539"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feGaussianBlur
+         id="feGaussianBlur4541"
+         in="composite1"
+         stdDeviation="0.4"
+         result="blur" />
+      <feOffset
+         id="feOffset4543"
+         dx="0"
+         dy="0"
+         result="offset" />
+      <feComposite
+         in2="offset"
+         id="feComposite4545"
+         in="fbSourceGraphic"
+         operator="over"
+         result="composite2" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter4437"
+       x="-0.39677472"
+       y="-0.28328011"
+       width="1.7935494"
+       height="1.5665602">
+      <feFlood
+         flood-opacity="0.882353"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood4427" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite4429" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="0.4"
+         result="blur"
+         id="feGaussianBlur4431" />
+      <feOffset
+         dx="0"
+         dy="0"
+         result="offset"
+         id="feOffset4433" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="fbSourceGraphic"
+         id="feComposite4435" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix4547" />
+      <feFlood
+         id="feFlood4549"
+         flood-opacity="0.882353"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         in="fbSourceGraphic" />
+      <feComposite
+         in2="fbSourceGraphic"
+         id="feComposite4551"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feGaussianBlur
+         id="feGaussianBlur4553"
+         in="composite1"
+         stdDeviation="0.4"
+         result="blur" />
+      <feOffset
+         id="feOffset4555"
+         dx="0"
+         dy="0"
+         result="offset" />
+      <feComposite
+         in2="offset"
+         id="feComposite4557"
+         in="fbSourceGraphic"
+         operator="over"
+         result="composite2" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter4449"
+       x="-0.39677472"
+       y="-0.28328011"
+       width="1.7935494"
+       height="1.5665602">
+      <feFlood
+         flood-opacity="0.882353"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood4439" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite4441" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="0.4"
+         result="blur"
+         id="feGaussianBlur4443" />
+      <feOffset
+         dx="0"
+         dy="0"
+         result="offset"
+         id="feOffset4445" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="fbSourceGraphic"
+         id="feComposite4447" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix4559" />
+      <feFlood
+         id="feFlood4561"
+         flood-opacity="0.882353"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         in="fbSourceGraphic" />
+      <feComposite
+         in2="fbSourceGraphic"
+         id="feComposite4563"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feGaussianBlur
+         id="feGaussianBlur4565"
+         in="composite1"
+         stdDeviation="0.4"
+         result="blur" />
+      <feOffset
+         id="feOffset4567"
+         dx="0"
+         dy="0"
+         result="offset" />
+      <feComposite
+         in2="offset"
+         id="feComposite4569"
+         in="fbSourceGraphic"
+         operator="over"
+         result="composite2" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter4461"
+       x="-0.39677472"
+       y="-0.28328011"
+       width="1.7935494"
+       height="1.5665602">
+      <feFlood
+         flood-opacity="0.882353"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood4451" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite4453" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="0.4"
+         result="blur"
+         id="feGaussianBlur4455" />
+      <feOffset
+         dx="0"
+         dy="0"
+         result="offset"
+         id="feOffset4457" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="fbSourceGraphic"
+         id="feComposite4459" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix4571" />
+      <feFlood
+         id="feFlood4573"
+         flood-opacity="0.882353"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         in="fbSourceGraphic" />
+      <feComposite
+         in2="fbSourceGraphic"
+         id="feComposite4575"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feGaussianBlur
+         id="feGaussianBlur4577"
+         in="composite1"
+         stdDeviation="0.4"
+         result="blur" />
+      <feOffset
+         id="feOffset4579"
+         dx="0"
+         dy="0"
+         result="offset" />
+      <feComposite
+         in2="offset"
+         id="feComposite4581"
+         in="fbSourceGraphic"
+         operator="over"
+         result="composite2" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter4473"
+       x="-0.39677472"
+       y="-0.28328011"
+       width="1.7935494"
+       height="1.5665602">
+      <feFlood
+         flood-opacity="0.882353"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood4463" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite4465" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="0.4"
+         result="blur"
+         id="feGaussianBlur4467" />
+      <feOffset
+         dx="0"
+         dy="0"
+         result="offset"
+         id="feOffset4469" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="fbSourceGraphic"
+         id="feComposite4471" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix4583" />
+      <feFlood
+         id="feFlood4585"
+         flood-opacity="0.882353"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         in="fbSourceGraphic" />
+      <feComposite
+         in2="fbSourceGraphic"
+         id="feComposite4587"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feGaussianBlur
+         id="feGaussianBlur4589"
+         in="composite1"
+         stdDeviation="0.4"
+         result="blur" />
+      <feOffset
+         id="feOffset4591"
+         dx="0"
+         dy="0"
+         result="offset" />
+      <feComposite
+         in2="offset"
+         id="feComposite4593"
+         in="fbSourceGraphic"
+         operator="over"
+         result="composite2" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter4485"
+       x="-0.39677472"
+       y="-0.28328011"
+       width="1.7935494"
+       height="1.5665602">
+      <feFlood
+         flood-opacity="0.882353"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood4475" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite4477" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="0.4"
+         result="blur"
+         id="feGaussianBlur4479" />
+      <feOffset
+         dx="0"
+         dy="0"
+         result="offset"
+         id="feOffset4481" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="fbSourceGraphic"
+         id="feComposite4483" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix4595" />
+      <feFlood
+         id="feFlood4597"
+         flood-opacity="0.882353"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         in="fbSourceGraphic" />
+      <feComposite
+         in2="fbSourceGraphic"
+         id="feComposite4599"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feGaussianBlur
+         id="feGaussianBlur4601"
+         in="composite1"
+         stdDeviation="0.4"
+         result="blur" />
+      <feOffset
+         id="feOffset4603"
+         dx="0"
+         dy="0"
+         result="offset" />
+      <feComposite
+         in2="offset"
+         id="feComposite4605"
+         in="fbSourceGraphic"
+         operator="over"
+         result="composite2" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter3718"
+       x="-0.48000001"
+       y="-0.48000001"
+       width="1.96"
+       height="1.96">
+      <feFlood
+         flood-opacity="0.882353"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood3708" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite3710" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="0.4"
+         result="blur"
+         id="feGaussianBlur3712" />
+      <feOffset
+         dx="0"
+         dy="0"
+         result="offset"
+         id="feOffset3714" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="fbSourceGraphic"
+         id="feComposite3716" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix3732" />
+      <feFlood
+         id="feFlood3734"
+         flood-opacity="0.882353"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         in="fbSourceGraphic" />
+      <feComposite
+         in2="fbSourceGraphic"
+         id="feComposite3736"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feGaussianBlur
+         id="feGaussianBlur3738"
+         in="composite1"
+         stdDeviation="0.4"
+         result="blur" />
+      <feOffset
+         id="feOffset3740"
+         dx="0"
+         dy="0"
+         result="offset" />
+      <feComposite
+         in2="offset"
+         id="feComposite3742"
+         in="fbSourceGraphic"
+         operator="over"
+         result="composite2" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter3730"
+       x="-0.044275281"
+       y="-0.044404434"
+       width="1.0885506"
+       height="1.0888089">
+      <feFlood
+         flood-opacity="0.882353"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood3720" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite3722" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="0.4"
+         result="blur"
+         id="feGaussianBlur3724" />
+      <feOffset
+         dx="0"
+         dy="0"
+         result="offset"
+         id="feOffset3726" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="fbSourceGraphic"
+         id="feComposite3728" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix3744" />
+      <feFlood
+         id="feFlood3746"
+         flood-opacity="0.882353"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         in="fbSourceGraphic" />
+      <feComposite
+         in2="fbSourceGraphic"
+         id="feComposite3748"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feGaussianBlur
+         id="feGaussianBlur3750"
+         in="composite1"
+         stdDeviation="0.4"
+         result="blur" />
+      <feOffset
+         id="feOffset3752"
+         dx="0"
+         dy="0"
+         result="offset" />
+      <feComposite
+         in2="offset"
+         id="feComposite3754"
+         in="fbSourceGraphic"
+         operator="over"
+         result="composite2" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter4116"
+       x="-0.044275286"
+       y="-0.044404423"
+       width="1.0885506"
+       height="1.0888088">
+      <feFlood
+         flood-opacity="0.882353"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood4106" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite4108" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="0.4"
+         result="blur"
+         id="feGaussianBlur4110" />
+      <feOffset
+         dx="0"
+         dy="0"
+         result="offset"
+         id="feOffset4112" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="fbSourceGraphic"
+         id="feComposite4114" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix4118" />
+      <feFlood
+         id="feFlood4120"
+         flood-opacity="0.882353"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         in="fbSourceGraphic" />
+      <feComposite
+         in2="fbSourceGraphic"
+         id="feComposite4122"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feGaussianBlur
+         id="feGaussianBlur4124"
+         in="composite1"
+         stdDeviation="0.4"
+         result="blur" />
+      <feOffset
+         id="feOffset4126"
+         dx="0"
+         dy="0"
+         result="offset" />
+      <feComposite
+         in2="offset"
+         id="feComposite4128"
+         in="fbSourceGraphic"
+         operator="over"
+         result="composite2" />
+    </filter>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g4631"
+       transform="translate(-23.828249,25.439108)">
+      <path
+         sodipodi:type="star"
+         style="fill:#ff5555;stroke:none;stroke-width:0.0649999;stroke-linecap:round"
+         id="path4365"
+         inkscape:flatsided="true"
+         sodipodi:sides="10"
+         sodipodi:cx="27.277481"
+         sodipodi:cy="123.02281"
+         sodipodi:r1="29.520678"
+         sodipodi:r2="28.075834"
+         sodipodi:arg1="0"
+         sodipodi:arg2="0.31415927"
+         inkscape:rounded="0"
+         inkscape:randomized="0"
+         inkscape:transform-center-y="-1.617936e-06"
+         transform="translate(105.64069,102.5291)"
+         d="m 56.798159,123.02281 -5.637948,17.35182 -14.760339,10.72401 -18.244782,0 L 3.3947512,140.37463 -2.2431965,123.02281 3.3947512,105.67099 18.15509,94.946979 h 18.244782 l 14.760339,10.724011 z" />
+      <g
+         id="g3012-5"
+         transform="translate(18.122126,114.53358)">
+        <g
+           id="g574-7-0"
+           transform="rotate(-18,121.91295,-137.0081)"
+           style="stroke:none">
+          <circle
+             style="fill:#ffffff;stroke:none;stroke-width:0.0649999;stroke-linecap:round"
+             id="path534-3-6"
+             cx="38.499989"
+             cy="96.67981"
+             r="2" />
+        </g>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:10.6448px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.266122;filter:url(#filter4377)"
+           x="-71.449074"
+           y="125.65908"
+           id="text1558-5-4-3"
+           transform="rotate(-72)"><tspan
+             sodipodi:role="line"
+             id="tspan1556-0-5-8"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'GohuFont Nerd Font';-inkscape-font-specification:'GohuFont Nerd Font';fill:#ffffff;stroke-width:0.266122"
+             x="-71.449074"
+             y="125.65908">1</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:10.6448px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.266122;filter:url(#filter4389)"
+           x="25.21669"
+           y="139.46614"
+           id="text1558-0-3-2-5"
+           transform="rotate(-36)"><tspan
+             sodipodi:role="line"
+             id="tspan1556-6-6-5-6"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'GohuFont Nerd Font';-inkscape-font-specification:'GohuFont Nerd Font';fill:#ffffff;stroke-width:0.266122"
+             x="25.21669"
+             y="139.46614">2</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:10.6448px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.266122;filter:url(#filter4401)"
+           x="112.57851"
+           y="93.193329"
+           id="text1558-8-1-4-1"><tspan
+             sodipodi:role="line"
+             id="tspan1556-7-0-7-1"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'GohuFont Nerd Font';-inkscape-font-specification:'GohuFont Nerd Font';fill:#ffffff;stroke-width:0.266122"
+             x="112.57851"
+             y="93.193329">3</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:10.6448px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.266122;filter:url(#filter4413)"
+           x="155.83286"
+           y="4.5152864"
+           id="text1558-9-6-4-5"
+           transform="rotate(36)"><tspan
+             sodipodi:role="line"
+             id="tspan1556-2-3-4-9"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'GohuFont Nerd Font';-inkscape-font-specification:'GohuFont Nerd Font';fill:#ffffff;stroke-width:0.266122"
+             x="155.83286"
+             y="4.5152864">4</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:10.6448px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.266122;filter:url(#filter4425)"
+           x="139.03847"
+           y="-92.695984"
+           id="text1558-02-2-3-8"
+           transform="rotate(72)"><tspan
+             sodipodi:role="line"
+             id="tspan1556-3-0-0-4"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'GohuFont Nerd Font';-inkscape-font-specification:'GohuFont Nerd Font';fill:#ffffff;stroke-width:0.266122"
+             x="139.03847"
+             y="-92.695984">5</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:10.6448px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.266122;filter:url(#filter4437)"
+           x="67.897217"
+           y="-161.30908"
+           id="text1558-7-6-7-8"
+           transform="rotate(108)"><tspan
+             sodipodi:role="line"
+             id="tspan1556-5-1-8-1"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'GohuFont Nerd Font';-inkscape-font-specification:'GohuFont Nerd Font';fill:#ffffff;stroke-width:0.266122"
+             x="67.897217"
+             y="-161.30908">6</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:10.6448px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.266122;filter:url(#filter4449)"
+           x="-29.95026"
+           y="-175.11615"
+           id="text1558-92-5-6-0"
+           transform="rotate(144)"><tspan
+             sodipodi:role="line"
+             id="tspan1556-28-5-8-3"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'GohuFont Nerd Font';-inkscape-font-specification:'GohuFont Nerd Font';fill:#ffffff;stroke-width:0.266122"
+             x="-29.95026"
+             y="-175.11615">7</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:10.6448px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.266122;filter:url(#filter4461)"
+           x="-117.00696"
+           y="-128.84334"
+           id="text1558-97-4-8-0"
+           transform="scale(-1)"><tspan
+             sodipodi:role="line"
+             id="tspan1556-36-7-4-4"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'GohuFont Nerd Font';-inkscape-font-specification:'GohuFont Nerd Font';fill:#ffffff;stroke-width:0.266122"
+             x="-117.00696"
+             y="-128.84334">8</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:10.6448px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.266122;filter:url(#filter4473)"
+           x="-160.33304"
+           y="-40.165295"
+           id="text1558-1-6-3-4"
+           transform="rotate(-144)"><tspan
+             sodipodi:role="line"
+             id="tspan1556-29-5-1-4"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'GohuFont Nerd Font';-inkscape-font-specification:'GohuFont Nerd Font';fill:#ffffff;stroke-width:0.266122"
+             x="-160.33304"
+             y="-40.165295">9</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:10.6448px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.266122;filter:url(#filter4485)"
+           x="-143.31549"
+           y="57.045979"
+           id="text1558-3-6-4-4"
+           transform="rotate(-108)"><tspan
+             sodipodi:role="line"
+             id="tspan1556-1-9-9-7"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'GohuFont Nerd Font';-inkscape-font-specification:'GohuFont Nerd Font';fill:#ffffff;stroke-width:0.266122"
+             x="-143.31549"
+             y="57.045979">0</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g4349"
+       transform="translate(-30.981263,17.178751)"
+       clip-path="none">
+      <path
+         sodipodi:type="star"
+         style="fill:#ff0000;stroke:none;stroke-width:0.0649999;stroke-linecap:round"
+         id="path4104"
+         inkscape:flatsided="true"
+         sodipodi:sides="10"
+         sodipodi:cx="27.277481"
+         sodipodi:cy="123.02281"
+         sodipodi:r1="29.520678"
+         sodipodi:r2="28.075834"
+         sodipodi:arg1="0"
+         sodipodi:arg2="0.31415927"
+         inkscape:rounded="0"
+         inkscape:randomized="0"
+         inkscape:transform-center-y="-1.2992111e-06"
+         transform="rotate(-126,128.26333,117.33839)"
+         d="m 56.798159,123.02281 -5.637948,17.35182 -14.760339,10.72401 -18.244782,0 L 3.3947512,140.37463 -2.2431965,123.02281 3.3947512,105.67099 18.15509,94.946979 h 18.244782 l 14.760339,10.724011 z" />
+      <g
+         id="g3839-9"
+         transform="translate(42.698542,105.95059)">
+        <g
+           id="g574-4-1"
+           transform="rotate(-108,91.491882,52.881882)"
+           style="stroke:none">
+          <circle
+             style="fill:#ffaaaa;stroke:none;stroke-width:0.0649999;stroke-linecap:round"
+             id="path534-8-7"
+             cx="38.499989"
+             cy="96.67981"
+             r="2" />
+        </g>
+        <g
+           id="g2584-1"
+           style="fill:#ffffff;filter:url(#filter4116)">
+          <circle
+             style="fill:#ffffff;stroke:none;stroke-width:0.0649999;stroke-linecap:round"
+             id="path534-6-1"
+             cx="-149.52159"
+             cy="-89.745857"
+             r="2"
+             transform="scale(-1)" />
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-weight:normal;font-size:10.6448px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.266122"
+             x="153.41078"
+             y="-12.023384"
+             id="text1558-5-5"
+             transform="rotate(36)"><tspan
+               sodipodi:role="line"
+               id="tspan1556-0-9"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'GohuFont Nerd Font';-inkscape-font-specification:'GohuFont Nerd Font';fill:#ffffff;stroke-width:0.266122"
+               x="153.41078"
+               y="-12.023384">1</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-weight:normal;font-size:10.6448px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.266122"
+             x="109.913"
+             y="-111.10964"
+             id="text1558-0-3-7"
+             transform="rotate(72)"><tspan
+               sodipodi:role="line"
+               id="tspan1556-6-6-7"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'GohuFont Nerd Font';-inkscape-font-specification:'GohuFont Nerd Font';fill:#ffffff;stroke-width:0.266122"
+               x="109.913"
+               y="-111.10964">2</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-weight:normal;font-size:10.6448px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.266122"
+             x="17.543755"
+             y="-166.74277"
+             id="text1558-8-1-6"
+             transform="rotate(108)"><tspan
+               sodipodi:role="line"
+               id="tspan1556-7-0-73"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'GohuFont Nerd Font';-inkscape-font-specification:'GohuFont Nerd Font';fill:#ffffff;stroke-width:0.266122"
+               x="17.543755"
+               y="-166.74277">3</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-weight:normal;font-size:10.6448px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.266122"
+             x="-89.631111"
+             y="-157.20528"
+             id="text1558-9-6-6"
+             transform="rotate(144)"><tspan
+               sodipodi:role="line"
+               id="tspan1556-2-3-5"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'GohuFont Nerd Font';-inkscape-font-specification:'GohuFont Nerd Font';fill:#ffffff;stroke-width:0.266122"
+               x="-89.631111"
+               y="-157.20528">4</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-weight:normal;font-size:10.6448px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.266122"
+             x="-171.21611"
+             y="-86.720604"
+             id="text1558-02-2-6"
+             transform="scale(-1)"><tspan
+               sodipodi:role="line"
+               id="tspan1556-3-0-3"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'GohuFont Nerd Font';-inkscape-font-specification:'GohuFont Nerd Font';fill:#ffffff;stroke-width:0.266122"
+               x="-171.21611"
+               y="-86.720604">5</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-weight:normal;font-size:10.6448px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.266122"
+             x="-195.42833"
+             y="18.501526"
+             id="text1558-7-6-9"
+             transform="rotate(-144)"><tspan
+               sodipodi:role="line"
+               id="tspan1556-5-1-4"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'GohuFont Nerd Font';-inkscape-font-specification:'GohuFont Nerd Font';fill:#ffffff;stroke-width:0.266122"
+               x="-195.42833"
+               y="18.501526">6</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-weight:normal;font-size:10.6448px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.266122"
+             x="-153.14062"
+             y="117.80273"
+             id="text1558-92-5-8"
+             transform="rotate(-108)"><tspan
+               sodipodi:role="line"
+               id="tspan1556-28-5-1"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'GohuFont Nerd Font';-inkscape-font-specification:'GohuFont Nerd Font';fill:#ffffff;stroke-width:0.266122"
+               x="-153.14062"
+               y="117.80273">7</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-weight:normal;font-size:10.6448px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.266122"
+             x="-60.750206"
+             y="173.13074"
+             id="text1558-97-4-2"
+             transform="rotate(-72)"><tspan
+               sodipodi:role="line"
+               id="tspan1556-36-7-9"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'GohuFont Nerd Font';-inkscape-font-specification:'GohuFont Nerd Font';fill:#ffffff;stroke-width:0.266122"
+               x="-60.750206"
+               y="173.13074">8</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-weight:normal;font-size:10.6448px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.266122"
+             x="46.74168"
+             y="163.66496"
+             id="text1558-1-6-39"
+             transform="rotate(-36)"><tspan
+               sodipodi:role="line"
+               id="tspan1556-29-5-0"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'GohuFont Nerd Font';-inkscape-font-specification:'GohuFont Nerd Font';fill:#ffffff;stroke-width:0.266122"
+               x="46.74168"
+               y="163.66496">9</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-weight:normal;font-size:10.6448px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.266122"
+             x="127.85106"
+             y="92.957123"
+             id="text1558-3-6-8"><tspan
+               sodipodi:role="line"
+               id="tspan1556-1-9-8"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'GohuFont Nerd Font';-inkscape-font-specification:'GohuFont Nerd Font';fill:#ffffff;stroke-width:0.266122"
+               x="127.85106"
+               y="92.957123">0</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g
+       id="g5422"
+       transform="rotate(90,144.61952,132.57921)">
+      <rect
+         style="opacity:0.781485;fill:#b3b3b3;stroke:none;stroke-width:0.0649999;stroke-linecap:round"
+         id="rect234"
+         width="62"
+         height="88"
+         x="-150.85432"
+         y="92.310722"
+         ry="2.3660018"
+         transform="rotate(-90)" />
+      <g
+         id="g574-7"
+         transform="rotate(-18,227.71899,-189.87304)"
+         style="fill:#000000;stroke:none">
+        <circle
+           style="fill:#000000;stroke:none;stroke-width:0.0649999;stroke-linecap:round"
+           id="path534-3"
+           cx="38.499989"
+           cy="96.67981"
+           r="2" />
+      </g>
+      <g
+         id="g574"
+         transform="rotate(72,54.094091,151.68172)"
+         style="fill:#000000;stroke:none">
+        <circle
+           style="fill:#000000;stroke:none;stroke-width:0.0649999;stroke-linecap:round"
+           id="path534"
+           cx="38.499989"
+           cy="96.67981"
+           r="2" />
+      </g>
+      <circle
+         style="fill:#ffaaaa;stroke:none;stroke-width:0.0649999;stroke-linecap:round"
+         id="path534-8"
+         cx="-166.84137"
+         cy="125.62811"
+         r="2"
+         transform="rotate(-108)" />
+      <circle
+         style="fill:#000000;stroke:none;stroke-width:0.0649999;stroke-linecap:round"
+         id="path534-6"
+         cx="-171.03627"
+         cy="-119.85432"
+         r="2"
+         transform="scale(-1)" />
+      <g
+         id="g3018"
+         transform="translate(21.514682,30.10847)"
+         style="fill:#000000">
+        <rect
+           style="opacity:0.2622;fill:#000000;stroke:none;stroke-width:0.0649999;stroke-linecap:round"
+           id="rect1332-1"
+           width="8.3299303"
+           height="13.478109"
+           x="110.63108"
+           y="83.055008"
+           ry="2.3660018" />
+        <g
+           id="g2893"
+           style="fill:#000000">
+          <rect
+             style="opacity:0.2622;fill:#000000;stroke:none;stroke-width:0.0649999;stroke-linecap:round"
+             id="rect1332"
+             width="8.3299303"
+             height="13.478109"
+             x="95.029213"
+             y="83.055"
+             ry="2.3660018" />
+          <rect
+             style="opacity:0.2622;fill:#000000;stroke:none;stroke-width:0.0649999;stroke-linecap:round"
+             id="rect1332-2"
+             width="8.3299303"
+             height="13.478109"
+             x="126.23294"
+             y="83.055008"
+             ry="2.3660018" />
+        </g>
+      </g>
+    </g>
+    <g
+       id="g5314"
+       transform="translate(59.839969,-69.25805)">
+      <path
+         sodipodi:type="star"
+         style="fill:#c83737;stroke:none;stroke-width:0.0649999;stroke-linecap:round"
+         id="path448-3-6"
+         inkscape:flatsided="true"
+         sodipodi:sides="10"
+         sodipodi:cx="27.277481"
+         sodipodi:cy="123.02281"
+         sodipodi:r1="29.520678"
+         sodipodi:r2="28.075834"
+         sodipodi:arg1="0"
+         sodipodi:arg2="0.31415927"
+         inkscape:rounded="0"
+         inkscape:randomized="0"
+         d="m 56.798159,123.02281 -5.637948,17.35182 -14.760339,10.72401 -18.244782,0 L 3.3947512,140.37463 -2.2431965,123.02281 3.3947512,105.67099 18.15509,94.946979 h 18.244782 l 14.760339,10.724011 z"
+         inkscape:transform-center-y="-1.617936e-06"
+         transform="rotate(-162,36.948778,114.0606)" />
+      <g
+         id="g3012-3"
+         transform="translate(-100.60539,18.779765)">
+        <g
+           id="g574-7-1"
+           transform="rotate(-18,121.91295,-137.0081)"
+           style="stroke:none">
+          <path
+             sodipodi:type="star"
+             style="fill:#ff5555;stroke:none;stroke-width:0.0649999;stroke-linecap:round"
+             id="path448-5-7"
+             inkscape:flatsided="true"
+             sodipodi:sides="10"
+             sodipodi:cx="27.277481"
+             sodipodi:cy="123.02281"
+             sodipodi:r1="29.520678"
+             sodipodi:r2="28.075834"
+             sodipodi:arg1="0"
+             sodipodi:arg2="0.31415927"
+             inkscape:rounded="0"
+             inkscape:randomized="0"
+             d="m 56.798159,123.02281 -5.637948,17.35182 -14.760339,10.72401 -18.244782,0 L 3.3947512,140.37463 -2.2431965,123.02281 3.3947512,105.67099 18.15509,94.946979 h 18.244782 l 14.760339,10.724011 z"
+             inkscape:transform-center-y="-1.617936e-06"
+             transform="rotate(18,116.05031,145.27938)" />
+          <circle
+             style="fill:#ffaaaa;stroke:none;stroke-width:0.0649999;stroke-linecap:round"
+             id="path534-3-5"
+             cx="38.499989"
+             cy="96.67981"
+             r="2" />
+        </g>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:10.6448px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.266122"
+           x="-71.449074"
+           y="125.65908"
+           id="text1558-5-4-9"
+           transform="rotate(-72)"><tspan
+             sodipodi:role="line"
+             id="tspan1556-0-5-6"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'GohuFont Nerd Font';-inkscape-font-specification:'GohuFont Nerd Font';stroke-width:0.266122"
+             x="-71.449074"
+             y="125.65908">1</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:10.6448px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.266122"
+           x="25.21669"
+           y="139.46614"
+           id="text1558-0-3-2-2"
+           transform="rotate(-36)"><tspan
+             sodipodi:role="line"
+             id="tspan1556-6-6-5-1"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'GohuFont Nerd Font';-inkscape-font-specification:'GohuFont Nerd Font';stroke-width:0.266122"
+             x="25.21669"
+             y="139.46614">2</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:10.6448px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.266122"
+           x="112.57851"
+           y="93.193329"
+           id="text1558-8-1-4-7"><tspan
+             sodipodi:role="line"
+             id="tspan1556-7-0-7-8"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'GohuFont Nerd Font';-inkscape-font-specification:'GohuFont Nerd Font';stroke-width:0.266122"
+             x="112.57851"
+             y="93.193329">3</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:10.6448px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.266122"
+           x="155.83286"
+           y="4.5152864"
+           id="text1558-9-6-4-57"
+           transform="rotate(36)"><tspan
+             sodipodi:role="line"
+             id="tspan1556-2-3-4-4"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'GohuFont Nerd Font';-inkscape-font-specification:'GohuFont Nerd Font';stroke-width:0.266122"
+             x="155.83286"
+             y="4.5152864">4</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:10.6448px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.266122"
+           x="139.03847"
+           y="-92.695984"
+           id="text1558-02-2-3-1"
+           transform="rotate(72)"><tspan
+             sodipodi:role="line"
+             id="tspan1556-3-0-0-8"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'GohuFont Nerd Font';-inkscape-font-specification:'GohuFont Nerd Font';stroke-width:0.266122"
+             x="139.03847"
+             y="-92.695984">5</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:10.6448px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.266122"
+           x="67.897217"
+           y="-161.30908"
+           id="text1558-7-6-7-5"
+           transform="rotate(108)"><tspan
+             sodipodi:role="line"
+             id="tspan1556-5-1-8-9"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'GohuFont Nerd Font';-inkscape-font-specification:'GohuFont Nerd Font';stroke-width:0.266122"
+             x="67.897217"
+             y="-161.30908">6</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:10.6448px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.266122"
+           x="-29.95026"
+           y="-175.11615"
+           id="text1558-92-5-6-7"
+           transform="rotate(144)"><tspan
+             sodipodi:role="line"
+             id="tspan1556-28-5-8-5"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'GohuFont Nerd Font';-inkscape-font-specification:'GohuFont Nerd Font';stroke-width:0.266122"
+             x="-29.95026"
+             y="-175.11615">7</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:10.6448px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.266122"
+           x="-117.00696"
+           y="-128.84334"
+           id="text1558-97-4-8-3"
+           transform="scale(-1)"><tspan
+             sodipodi:role="line"
+             id="tspan1556-36-7-4-8"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'GohuFont Nerd Font';-inkscape-font-specification:'GohuFont Nerd Font';stroke-width:0.266122"
+             x="-117.00696"
+             y="-128.84334">8</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:10.6448px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.266122"
+           x="-160.33304"
+           y="-40.165295"
+           id="text1558-1-6-3-8"
+           transform="rotate(-144)"><tspan
+             sodipodi:role="line"
+             id="tspan1556-29-5-1-3"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'GohuFont Nerd Font';-inkscape-font-specification:'GohuFont Nerd Font';stroke-width:0.266122"
+             x="-160.33304"
+             y="-40.165295">9</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:10.6448px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.266122"
+           x="-143.31549"
+           y="57.045979"
+           id="text1558-3-6-4-1"
+           transform="rotate(-108)"><tspan
+             sodipodi:role="line"
+             id="tspan1556-1-9-9-8"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'GohuFont Nerd Font';-inkscape-font-specification:'GohuFont Nerd Font';stroke-width:0.266122"
+             x="-143.31549"
+             y="57.045979">0</tspan></text>
+      </g>
+      <g
+         id="g2267-9"
+         transform="translate(-100.60539,18.779765)">
+        <g
+           id="g574-6"
+           transform="rotate(72,64.057127,121.82128)"
+           style="stroke:none">
+          <path
+             sodipodi:type="star"
+             style="fill:#ff0000;stroke:none;stroke-width:0.0649999;stroke-linecap:round"
+             id="path448-4"
+             inkscape:flatsided="true"
+             sodipodi:sides="10"
+             sodipodi:cx="27.277481"
+             sodipodi:cy="123.02281"
+             sodipodi:r1="29.520678"
+             sodipodi:r2="28.075834"
+             sodipodi:arg1="0"
+             sodipodi:arg2="0.31415927"
+             inkscape:rounded="0"
+             inkscape:randomized="0"
+             d="m 56.798159,123.02281 -5.637948,17.35182 -14.760339,10.72401 -18.244782,0 L 3.3947512,140.37463 -2.2431965,123.02281 3.3947512,105.67099 18.15509,94.946979 h 18.244782 l 14.760339,10.724011 z"
+             inkscape:transform-center-y="-1.2992111e-06"
+             transform="rotate(-18,-50.272838,74.423248)" />
+          <circle
+             style="fill:#ffaaaa;stroke:none;stroke-width:0.0649999;stroke-linecap:round"
+             id="path534-33"
+             cx="38.499989"
+             cy="96.67981"
+             r="2" />
+        </g>
+        <g
+           id="g2241-3">
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-weight:normal;font-size:10.6448px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.266122"
+             x="134.93021"
+             y="29.082932"
+             id="text1558-86"
+             transform="rotate(36)"><tspan
+               sodipodi:role="line"
+               id="tspan1556-04"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'GohuFont Nerd Font';-inkscape-font-specification:'GohuFont Nerd Font';stroke-width:0.266122"
+               x="134.93021"
+               y="29.082932">1</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-weight:normal;font-size:10.6448px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.266122"
+             x="126.90259"
+             y="-44.980869"
+             id="text1558-0-8"
+             transform="rotate(72)"><tspan
+               sodipodi:role="line"
+               id="tspan1556-6-8"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'GohuFont Nerd Font';-inkscape-font-specification:'GohuFont Nerd Font';stroke-width:0.266122"
+               x="126.90259"
+               y="-44.980869">2</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-weight:normal;font-size:10.6448px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.266122"
+             x="77.376137"
+             y="-100.27973"
+             id="text1558-8-8"
+             transform="rotate(108)"><tspan
+               sodipodi:role="line"
+               id="tspan1556-7-9"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'GohuFont Nerd Font';-inkscape-font-specification:'GohuFont Nerd Font';stroke-width:0.266122"
+               x="77.376137"
+               y="-100.27973">3</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-weight:normal;font-size:10.6448px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.266122"
+             x="4.5507946"
+             y="-116.15887"
+             id="text1558-9-7"
+             transform="rotate(144)"><tspan
+               sodipodi:role="line"
+               id="tspan1556-2-76"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'GohuFont Nerd Font';-inkscape-font-specification:'GohuFont Nerd Font';stroke-width:0.266122"
+               x="4.5507946"
+               y="-116.15887">4</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-weight:normal;font-size:10.6448px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.266122"
+             x="-63.214981"
+             y="-85.972572"
+             id="text1558-02-4"
+             transform="scale(-1)"><tspan
+               sodipodi:role="line"
+               id="tspan1556-3-3"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'GohuFont Nerd Font';-inkscape-font-specification:'GohuFont Nerd Font';stroke-width:0.266122"
+               x="-63.214981"
+               y="-85.972572">5</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-weight:normal;font-size:10.6448px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.266122"
+             x="-100.65717"
+             y="-21.964003"
+             id="text1558-7-0"
+             transform="rotate(-144)"><tspan
+               sodipodi:role="line"
+               id="tspan1556-5-3"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'GohuFont Nerd Font';-inkscape-font-specification:'GohuFont Nerd Font';stroke-width:0.266122"
+               x="-100.65717"
+               y="-21.964003">6</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-weight:normal;font-size:10.6448px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.266122"
+             x="-93.353012"
+             y="51.884853"
+             id="text1558-92-0"
+             transform="rotate(-108)"><tspan
+               sodipodi:role="line"
+               id="tspan1556-28-9"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'GohuFont Nerd Font';-inkscape-font-specification:'GohuFont Nerd Font';stroke-width:0.266122"
+               x="-93.353012"
+               y="51.884853">7</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-weight:normal;font-size:10.6448px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.266122"
+             x="-43.847733"
+             y="107.48884"
+             id="text1558-97-2"
+             transform="rotate(-72)"><tspan
+               sodipodi:role="line"
+               id="tspan1556-36-5"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'GohuFont Nerd Font';-inkscape-font-specification:'GohuFont Nerd Font';stroke-width:0.266122"
+               x="-43.847733"
+               y="107.48884">8</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-weight:normal;font-size:10.6448px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.266122"
+             x="28.660608"
+             y="123.29626"
+             id="text1558-1-4"
+             transform="rotate(-36)"><tspan
+               sodipodi:role="line"
+               id="tspan1556-29-0"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'GohuFont Nerd Font';-inkscape-font-specification:'GohuFont Nerd Font';stroke-width:0.266122"
+               x="28.660608"
+               y="123.29626">9</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-weight:normal;font-size:10.6448px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.266122"
+             x="96.902"
+             y="93.333138"
+             id="text1558-3-5"><tspan
+               sodipodi:role="line"
+               id="tspan1556-1-94"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'GohuFont Nerd Font';-inkscape-font-specification:'GohuFont Nerd Font';stroke-width:0.266122"
+               x="96.902"
+               y="93.333138">0</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g3839-6"
+         transform="translate(-100.60539,18.779765)">
+        <g
+           id="g574-4-9"
+           transform="rotate(-108,91.491882,52.881882)"
+           style="stroke:none">
+          <path
+             sodipodi:type="star"
+             style="fill:#ff0000;stroke:none;stroke-width:0.0649999;stroke-linecap:round"
+             id="path448-7-2"
+             inkscape:flatsided="true"
+             sodipodi:sides="10"
+             sodipodi:cx="27.277481"
+             sodipodi:cy="123.02281"
+             sodipodi:r1="29.520678"
+             sodipodi:r2="28.075834"
+             sodipodi:arg1="0"
+             sodipodi:arg2="0.31415927"
+             inkscape:rounded="0"
+             inkscape:randomized="0"
+             d="m 56.798159,123.02281 -5.637948,17.35182 -14.760339,10.72401 -18.244782,0 L 3.3947512,140.37463 -2.2431965,123.02281 3.3947512,105.67099 18.15509,94.946979 h 18.244782 l 14.760339,10.724011 z"
+             inkscape:transform-center-y="-1.2992111e-06"
+             transform="rotate(-18,-50.272838,74.423248)" />
+          <circle
+             style="fill:#ffaaaa;stroke:none;stroke-width:0.0649999;stroke-linecap:round"
+             id="path534-8-2"
+             cx="38.499989"
+             cy="96.67981"
+             r="2" />
+        </g>
+        <g
+           id="g2584-4">
+          <circle
+             style="fill:#ffaaaa;stroke:none;stroke-width:0.0649999;stroke-linecap:round"
+             id="path534-6-7"
+             cx="-149.52159"
+             cy="-89.745857"
+             r="2"
+             transform="scale(-1)" />
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-weight:normal;font-size:10.6448px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.266122"
+             x="153.41078"
+             y="-12.023384"
+             id="text1558-5-7"
+             transform="rotate(36)"><tspan
+               sodipodi:role="line"
+               id="tspan1556-0-54"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'GohuFont Nerd Font';-inkscape-font-specification:'GohuFont Nerd Font';stroke-width:0.266122"
+               x="153.41078"
+               y="-12.023384">1</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-weight:normal;font-size:10.6448px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.266122"
+             x="109.913"
+             y="-111.10964"
+             id="text1558-0-3-8"
+             transform="rotate(72)"><tspan
+               sodipodi:role="line"
+               id="tspan1556-6-6-1"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'GohuFont Nerd Font';-inkscape-font-specification:'GohuFont Nerd Font';stroke-width:0.266122"
+               x="109.913"
+               y="-111.10964">2</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-weight:normal;font-size:10.6448px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.266122"
+             x="17.543755"
+             y="-166.74277"
+             id="text1558-8-1-2"
+             transform="rotate(108)"><tspan
+               sodipodi:role="line"
+               id="tspan1556-7-0-8"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'GohuFont Nerd Font';-inkscape-font-specification:'GohuFont Nerd Font';stroke-width:0.266122"
+               x="17.543755"
+               y="-166.74277">3</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-weight:normal;font-size:10.6448px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.266122"
+             x="-89.631111"
+             y="-157.20528"
+             id="text1558-9-6-9"
+             transform="rotate(144)"><tspan
+               sodipodi:role="line"
+               id="tspan1556-2-3-3"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'GohuFont Nerd Font';-inkscape-font-specification:'GohuFont Nerd Font';stroke-width:0.266122"
+               x="-89.631111"
+               y="-157.20528">4</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-weight:normal;font-size:10.6448px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.266122"
+             x="-171.21611"
+             y="-86.720604"
+             id="text1558-02-2-68"
+             transform="scale(-1)"><tspan
+               sodipodi:role="line"
+               id="tspan1556-3-0-02"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'GohuFont Nerd Font';-inkscape-font-specification:'GohuFont Nerd Font';stroke-width:0.266122"
+               x="-171.21611"
+               y="-86.720604">5</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-weight:normal;font-size:10.6448px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.266122"
+             x="-195.42833"
+             y="18.501526"
+             id="text1558-7-6-1"
+             transform="rotate(-144)"><tspan
+               sodipodi:role="line"
+               id="tspan1556-5-1-0"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'GohuFont Nerd Font';-inkscape-font-specification:'GohuFont Nerd Font';stroke-width:0.266122"
+               x="-195.42833"
+               y="18.501526">6</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-weight:normal;font-size:10.6448px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.266122"
+             x="-153.14062"
+             y="117.80273"
+             id="text1558-92-5-5"
+             transform="rotate(-108)"><tspan
+               sodipodi:role="line"
+               id="tspan1556-28-5-11"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'GohuFont Nerd Font';-inkscape-font-specification:'GohuFont Nerd Font';stroke-width:0.266122"
+               x="-153.14062"
+               y="117.80273">7</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-weight:normal;font-size:10.6448px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.266122"
+             x="-60.750206"
+             y="173.13074"
+             id="text1558-97-4-0"
+             transform="rotate(-72)"><tspan
+               sodipodi:role="line"
+               id="tspan1556-36-7-8"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'GohuFont Nerd Font';-inkscape-font-specification:'GohuFont Nerd Font';stroke-width:0.266122"
+               x="-60.750206"
+               y="173.13074">8</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-weight:normal;font-size:10.6448px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.266122"
+             x="46.74168"
+             y="163.66496"
+             id="text1558-1-6-5"
+             transform="rotate(-36)"><tspan
+               sodipodi:role="line"
+               id="tspan1556-29-5-06"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'GohuFont Nerd Font';-inkscape-font-specification:'GohuFont Nerd Font';stroke-width:0.266122"
+               x="46.74168"
+               y="163.66496">9</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-weight:normal;font-size:10.6448px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.266122"
+             x="127.85106"
+             y="92.957123"
+             id="text1558-3-6-46"><tspan
+               sodipodi:role="line"
+               id="tspan1556-1-9-2"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'GohuFont Nerd Font';-inkscape-font-specification:'GohuFont Nerd Font';stroke-width:0.266122"
+               x="127.85106"
+               y="92.957123">0</tspan></text>
+        </g>
+      </g>
+      <rect
+         style="opacity:0.781485;fill:#b3b3b3;stroke:none;stroke-width:0.0649999;stroke-linecap:round"
+         id="rect234-5"
+         width="62"
+         height="88"
+         x="-139.52563"
+         y="-29.809351"
+         ry="2.3660018"
+         transform="rotate(-90)" />
+      <g
+         id="g3018-8"
+         transform="translate(-100.60539,18.779765)">
+        <rect
+           style="opacity:0.2622;fill:#ffff00;stroke:none;stroke-width:0.0649999;stroke-linecap:round"
+           id="rect1332-1-6"
+           width="8.3299303"
+           height="13.478109"
+           x="110.63108"
+           y="83.055008"
+           ry="2.3660018" />
+        <g
+           id="g2893-2">
+          <rect
+             style="opacity:0.2622;fill:#ffff00;stroke:none;stroke-width:0.0649999;stroke-linecap:round"
+             id="rect1332-8"
+             width="8.3299303"
+             height="13.478109"
+             x="95.029213"
+             y="83.055"
+             ry="2.3660018" />
+          <rect
+             style="opacity:0.2622;fill:#ffff00;stroke:none;stroke-width:0.0649999;stroke-linecap:round"
+             id="rect1332-2-4"
+             width="8.3299303"
+             height="13.478109"
+             x="126.23294"
+             y="83.055008"
+             ry="2.3660018" />
+        </g>
+      </g>
+    </g>
+    <path
+       sodipodi:type="star"
+       style="fill:#333333;stroke:none;stroke-width:0.0649999;stroke-linecap:round"
+       id="path448-6"
+       inkscape:flatsided="true"
+       sodipodi:sides="10"
+       sodipodi:cx="27.277481"
+       sodipodi:cy="123.02281"
+       sodipodi:r1="29.520678"
+       sodipodi:r2="28.075834"
+       sodipodi:arg1="0"
+       sodipodi:arg2="0.31415927"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 56.798159,123.02281 -5.637948,17.35182 -14.760339,10.72401 -18.244782,0 L 3.3947512,140.37463 -2.2431965,123.02281 3.3947512,105.67099 18.15509,94.946979 h 18.244782 l 14.760339,10.724011 z"
+       inkscape:transform-center-y="-1.2992111e-06"
+       transform="rotate(54.000001,-43.807188,197.24876)" />
+    <path
+       sodipodi:type="star"
+       style="fill:#008000;stroke:none;stroke-width:0.0649999;stroke-linecap:round"
+       id="path3422"
+       inkscape:flatsided="true"
+       sodipodi:sides="10"
+       sodipodi:cx="27.277481"
+       sodipodi:cy="123.02281"
+       sodipodi:r1="29.520678"
+       sodipodi:r2="28.075834"
+       sodipodi:arg1="0"
+       sodipodi:arg2="0.31415927"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       inkscape:transform-center-y="-1.8780129e-06"
+       transform="matrix(0.5400624,0.74333217,-0.74333217,0.5400624,134.74066,124.41232)"
+       d="m 56.798159,123.02281 -5.637948,17.35182 -14.760339,10.72401 -18.244782,0 L 3.3947512,140.37463 -2.2431965,123.02281 3.3947512,105.67099 18.15509,94.946979 h 18.244782 l 14.760339,10.724011 z" />
+    <circle
+       style="fill:#ffffff;stroke:none;stroke-width:0.0649999;stroke-linecap:round;filter:url(#filter3718)"
+       id="path534-89"
+       cx="38.499989"
+       cy="96.67981"
+       r="2"
+       transform="rotate(72.000001,-30.499896,167.34139)" />
+    <g
+       id="g2241-2"
+       style="fill:#ffffff;filter:url(#filter3730)"
+       transform="translate(-22.045105,121.3827)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:10.6448px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.266122"
+         x="134.93021"
+         y="29.082932"
+         id="text1558-6"
+         transform="rotate(36)"><tspan
+           sodipodi:role="line"
+           id="tspan1556-64"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'GohuFont Nerd Font';-inkscape-font-specification:'GohuFont Nerd Font';fill:#ffffff;stroke-width:0.266122"
+           x="134.93021"
+           y="29.082932">1</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:10.6448px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.266122"
+         x="126.90259"
+         y="-44.980869"
+         id="text1558-0-9"
+         transform="rotate(72)"><tspan
+           sodipodi:role="line"
+           id="tspan1556-6-5"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'GohuFont Nerd Font';-inkscape-font-specification:'GohuFont Nerd Font';fill:#ffffff;stroke-width:0.266122"
+           x="126.90259"
+           y="-44.980869">2</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:10.6448px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.266122"
+         x="77.376137"
+         y="-100.27973"
+         id="text1558-8-0"
+         transform="rotate(108)"><tspan
+           sodipodi:role="line"
+           id="tspan1556-7-4"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'GohuFont Nerd Font';-inkscape-font-specification:'GohuFont Nerd Font';fill:#ffffff;stroke-width:0.266122"
+           x="77.376137"
+           y="-100.27973">3</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:10.6448px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.266122"
+         x="4.5507946"
+         y="-116.15887"
+         id="text1558-9-8"
+         transform="rotate(144)"><tspan
+           sodipodi:role="line"
+           id="tspan1556-2-7"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'GohuFont Nerd Font';-inkscape-font-specification:'GohuFont Nerd Font';fill:#ffffff;stroke-width:0.266122"
+           x="4.5507946"
+           y="-116.15887">4</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:10.6448px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.266122"
+         x="-63.214981"
+         y="-85.972572"
+         id="text1558-02-1"
+         transform="scale(-1)"><tspan
+           sodipodi:role="line"
+           id="tspan1556-3-7"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'GohuFont Nerd Font';-inkscape-font-specification:'GohuFont Nerd Font';fill:#ffffff;stroke-width:0.266122"
+           x="-63.214981"
+           y="-85.972572">5</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:10.6448px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.266122"
+         x="-100.65717"
+         y="-21.964003"
+         id="text1558-7-2"
+         transform="rotate(-144)"><tspan
+           sodipodi:role="line"
+           id="tspan1556-5-7"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'GohuFont Nerd Font';-inkscape-font-specification:'GohuFont Nerd Font';fill:#ffffff;stroke-width:0.266122"
+           x="-100.65717"
+           y="-21.964003">6</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:10.6448px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.266122"
+         x="-93.353012"
+         y="51.884853"
+         id="text1558-92-2"
+         transform="rotate(-108)"><tspan
+           sodipodi:role="line"
+           id="tspan1556-28-2"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'GohuFont Nerd Font';-inkscape-font-specification:'GohuFont Nerd Font';fill:#ffffff;stroke-width:0.266122"
+           x="-93.353012"
+           y="51.884853">7</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:10.6448px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.266122"
+         x="-43.847733"
+         y="107.48884"
+         id="text1558-97-6"
+         transform="rotate(-72)"><tspan
+           sodipodi:role="line"
+           id="tspan1556-36-1"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'GohuFont Nerd Font';-inkscape-font-specification:'GohuFont Nerd Font';fill:#ffffff;stroke-width:0.266122"
+           x="-43.847733"
+           y="107.48884">8</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:10.6448px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.266122"
+         x="28.660608"
+         y="123.29626"
+         id="text1558-1-0"
+         transform="rotate(-36)"><tspan
+           sodipodi:role="line"
+           id="tspan1556-29-6"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'GohuFont Nerd Font';-inkscape-font-specification:'GohuFont Nerd Font';fill:#ffffff;stroke-width:0.266122"
+           x="28.660608"
+           y="123.29626">9</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:10.6448px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.266122"
+         x="96.902"
+         y="93.333138"
+         id="text1558-3-1"><tspan
+           sodipodi:role="line"
+           id="tspan1556-1-5"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'GohuFont Nerd Font';-inkscape-font-specification:'GohuFont Nerd Font';fill:#ffffff;stroke-width:0.266122"
+           x="96.902"
+           y="93.333138">0</tspan></text>
+    </g>
+  </g>
+</svg>
